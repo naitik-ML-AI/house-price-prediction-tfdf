@@ -82,4 +82,5 @@ Predicted SalePrice
 
 Author
 
-Naitik Sharma
+Naitik Sharma 
+gmail - 
